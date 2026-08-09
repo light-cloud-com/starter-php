@@ -1,0 +1,9 @@
+/vendor/
+composer.phar
+
+.env
+.env.local
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json
