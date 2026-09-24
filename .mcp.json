@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "light-cloud": {
+      "command": "npx",
+      "args": ["-y", "@light-cloud/mcp-server"]
+    }
+  }
+}
